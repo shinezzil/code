@@ -1,6 +1,8 @@
 # json数据可视化解析
 
-![Alt text](http://oph42y401.bkt.clouddn.com/Upload-Image-20170914120734_420.png)
+显示效果
+
+![Alt text](http://7jpsyo.com1.z0.glb.clouddn.com/9DAB5513-E5B0-45DD-8261-2D571891A7A2.png)
 
 
 # 使用示例
